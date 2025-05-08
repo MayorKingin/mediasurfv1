@@ -1,6 +1,7 @@
 # 🎨 Open License Media Search App
 
-A full-stack web application for searching and browsing open-license images using the [Openverse API](https://api.openverse.org/v1/). The app supports user authentication, search history tracking, media filtering, and is built with React and Supabase. It is containerized using Docker and includes basic test support with Jest.
+A full-stack web application for searching and browsing open-license images using the [Openverse API](https://api.openverse.org/v1/). The app supports user authentication, search history tracking, media filtering, and is built with React and Supabase. It is containerized using Docker and includes basic test support with Jest. 
+The web app is hosted on https://mediasurfv1.vercel.app/
 
 ---
 
