@@ -24,9 +24,13 @@ git clone https://github.com/mayorkingin/mediasurfv1.git
 cd mediasurfv1
 ```
 
-### 2. Clone the Repo
+### 2. Build 
 
 ```bash
-git clone https://github.com/mayorkingin/mediasurfv1.git
-cd mediasurfv1
+npm run build
+```
+
+### 3. Run the App
+```bash
+npm run dev
 ```
